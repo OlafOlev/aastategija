@@ -1,0 +1,47 @@
+[
+    {
+        "nimetus": "PRAED",
+        "toidud": [
+            {
+                "nimetus": "Ahjušašlõkk",
+                "hind": "3.80",
+                "lisainfo": "Tapsustatav info toidu kohta - vöib olla ka tühjana"
+            }
+        ]
+    },
+    {
+        "nimetus": "SUPID",
+        "toidud": [
+            {
+                "nimetus": "Frikadellisupp(L)",
+                "hind": "1.40",
+                "lisainfo": "Tapsustatav info toidu kohta - vöib olla ka tühjana"
+            }
+        ]
+    },
+    {
+        "nimetus": "MAGUSTOIDUD",
+        "toidud": [
+            {
+                "nimetus": "Kohupiimakreem ananassidega",
+                "hind": "1.40",
+                "lisainfo": "Tapsustatav info toidu kohta - vöib olla ka tühjana"
+            }
+        ]
+    },
+    {
+        "nimetus": "JOOGID",
+        "toidud": [
+            {
+                "nimetus": "Mahl",
+                "hind": "0.61",
+                "lisainfo": "Tapsustatav info toidu kohta - vöib olla ka tühjana"
+            },
+            {
+                "nimetus": "Piim",
+                "hind": "0.30",
+                "lisainfo": "Tapsustatav info toidu kohta - vöib olla ka tühjana"
+            }
+        ]
+    }
+]
