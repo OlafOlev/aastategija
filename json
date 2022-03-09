@@ -1,0 +1,77 @@
+[
+     {
+          "nimetus": "PRAED",
+          "toidud": [
+               {
+                    "nimetus": "Ahju\u0161a\u0161l\u00f5kk",
+                    "hind": "3,80",
+                    "lisainfo": "Sa\u0161l\u00f5k,l\u00f6isand, kaste, salat"
+               },
+               {
+                    "nimetus": "Hakklihakotlet juustuga",
+                    "hind": "3,40",
+                    "lisainfo": "Hakklihakotlet, lisand,kaste,salat,leib"
+               },
+               {
+                    "nimetus": "Hakklihakotlet juustuga VOCO \u00d5PILASELE",
+                    "hind": "2,94",
+                    "lisainfo": "Hakklihakotlet,lisand,kaste,salat,leib"
+               },
+               {
+                    "nimetus": "Hakklihapallid VOCO \u00d5PILASELE",
+                    "hind": "2,94",
+                    "lisainfo": "(hakkliha, nisusai, muna, juust, maitseained) lisand, kaste, salat, leib"
+               }
+          ]
+     },
+     {
+          "nimetus": "SUPID",
+          "toidud": [
+               {
+                    "nimetus": "Frikadellisupp (L)",
+                    "hind": "1,40",
+                    "lisainfo": "supp, leib"
+               },
+               {
+                    "nimetus": "Paprikamaitseline supp sealihaga",
+                    "hind": "1,40",
+                    "lisainfo": ""
+               }
+          ]
+     },
+     {
+          "nimetus": "MAGUSTOIDUD",
+          "toidud": [
+               {
+                    "nimetus": "Kohupiimakreem ananassidega",
+                    "hind": "1,40",
+                    "lisainfo": ""
+               }
+          ]
+     },
+     {
+          "nimetus": "JOOGID",
+          "toidud": [
+               {
+                    "nimetus": "Mahl",
+                    "hind": "0,61",
+                    "lisainfo": ""
+               },
+               {
+                    "nimetus": "Morss",
+                    "hind": "0,26",
+                    "lisainfo": ""
+               },
+               {
+                    "nimetus": "Piim",
+                    "hind": "0,30",
+                    "lisainfo": ""
+               },
+               {
+                    "nimetus": "Koolipiim",
+                    "hind": "0,20",
+                    "lisainfo": ""
+               }
+          ]
+     }
+]
